@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://warre333.github.io/csb-ysy6u/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://warre333.github.io/csb-ysy6u/static/js/main.53e21b26.chunk.js",
+    "main.js.map": "https://warre333.github.io/csb-ysy6u/static/js/main.53e21b26.chunk.js.map",
+    "runtime-main.js": "https://warre333.github.io/csb-ysy6u/static/js/runtime-main.ccc3e189.js",
+    "runtime-main.js.map": "https://warre333.github.io/csb-ysy6u/static/js/runtime-main.ccc3e189.js.map",
+    "static/js/2.a67142e7.chunk.js": "https://warre333.github.io/csb-ysy6u/static/js/2.a67142e7.chunk.js",
+    "static/js/2.a67142e7.chunk.js.map": "https://warre333.github.io/csb-ysy6u/static/js/2.a67142e7.chunk.js.map",
+    "index.html": "https://warre333.github.io/csb-ysy6u/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://warre333.github.io/csb-ysy6u/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a67142e7.chunk.js.LICENSE.txt": "https://warre333.github.io/csb-ysy6u/static/js/2.a67142e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc3e189.js",
+    "static/js/2.a67142e7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.53e21b26.chunk.js"
+  ]
+}
